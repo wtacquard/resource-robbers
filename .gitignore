@@ -1,0 +1,6 @@
+Debug/
+Release/
+*.user
+cse125.*
+*.vcproj
+*~
